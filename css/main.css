@@ -25,3 +25,9 @@ html {
 .w3-bar .w3-button {
     padding: 16px;
 }
+
+/* Font logo */
+#tipo {
+    font-family: 'Tangerine', serif;
+    font-size: 25px;
+}
